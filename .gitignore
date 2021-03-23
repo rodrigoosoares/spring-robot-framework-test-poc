@@ -1,4 +1,3 @@
-HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
@@ -33,6 +32,6 @@ build/
 .vscode/
 
 ### Robot Framework Outputs ###
-component-tests/*/log.html
-component-tests/*/output.xml
-component-tests/*/report.html
+log.html
+output.xml
+report.html
