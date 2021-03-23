@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Robot Framework Outputs ###
+component-tests/*/log.html
+component-tests/*/output.xml
+component-tests/*/report.html
